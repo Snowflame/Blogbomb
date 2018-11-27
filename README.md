@@ -1,0 +1,2 @@
+# Blogbomb
+simple PHP Blog
